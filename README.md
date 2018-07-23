@@ -22,7 +22,7 @@
 
 ## Interpreting internals
 
-* [The Building Blocks of Interpretability](https://distill.pub/2018/building- blocks.) by Olah, C.; Satyanarayan, A.; et al.
+* [The Building Blocks of Interpretability](https://distill.pub/2018/building-blocks.) by Olah, C.; Satyanarayan, A.; et al.
 * [Feature Visualization](https://distill.pub/2017/feature-visualization) by Olah, C.; Mordvintsev, A.; et al.
 * [Plug & Play Generative Networks](http://arxiv.org/abs/1612.00005) by Nguyen, A.; Yosinski, J.; et al.
 * [Multifaceted Feature Visualiza- tion: Uncovering the Different Types of Features Learned By Each Neuron in Deep Neural Networks](http://arxiv.org/abs/1602.03616) by Nguyen, A. M.; Yosinski, J.; et al.
