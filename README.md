@@ -1,4 +1,4 @@
-# ConvNets for signal processing and medical vision
+# CNNs and RNNs for signal processing and medical vision
 
 
 ## Signal processing
